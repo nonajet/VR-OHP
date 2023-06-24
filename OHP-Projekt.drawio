@@ -1,0 +1,607 @@
+<mxfile host="app.diagrams.net" modified="2023-06-02T09:56:44.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1rc2k_tJa1O8gK8o31rO" version="21.3.2" type="device">
+  <diagram name="Seite-1" id="fXMv0G-i8Oa249-j9Mid">
+    <mxGraphModel dx="1674" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-1" target="t7ZzerdOOlnrR5x57jmB-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-1" target="t7ZzerdOOlnrR5x57jmB-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-1" value="3D-Umgebung eines leeren Klassenzimmers&lt;br&gt;(Nutzer steht mitten im Raum und ein Hologramm eines Avatars von Carl Zeiss taucht auf)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-670" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-3" target="yjMdG2bAr7CxOs6sLDQ7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-3" target="t7ZzerdOOlnrR5x57jmB-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-3" value="Auf einem 3D_Modell eines Tisches liegt eine Folie (&lt;i&gt;aufheben und auf die Glasfläche des OHP legen&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3160" y="2125" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-4" target="yjMdG2bAr7CxOs6sLDQ7-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-4" value="3D-Modell eines OHP(&lt;i&gt;Nutzer steht am Projektor und betätigt einen ON/OFF Knopf&lt;/i&gt;&lt;br&gt;-&amp;gt; Licht am OHP geht an)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2880" y="2110" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-5" target="yjMdG2bAr7CxOs6sLDQ7-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-5" value="3D Modell des Projektors (&lt;i&gt;Nutzer zieht die Klappe hoch&lt;/i&gt;&lt;br&gt;-&amp;gt;Bild an Wand erzeugt)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3020" y="2127.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-6" target="t7ZzerdOOlnrR5x57jmB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-6" value="wenn: Blatt falschherum&lt;br&gt;-&amp;gt;&lt;i&gt;Blatt wenden&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="2127.5" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-12" target="yjMdG2bAr7CxOs6sLDQ7-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4200" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-12" target="t7ZzerdOOlnrR5x57jmB-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-12" target="t7ZzerdOOlnrR5x57jmB-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-12" value="Scharfes Bild zeigt Menüoptionen an&lt;br&gt;[1] [2] [3]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="2135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yjMdG2bAr7CxOs6sLDQ7-14" target="t7ZzerdOOlnrR5x57jmB-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjMdG2bAr7CxOs6sLDQ7-14" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[3] Erkundungsmodus wird gestartet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4280" y="2380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qhcWH7iitW0w5NcIH523-1" value="Start&lt;br&gt;&lt;br&gt;Hallo, ich bin Carl Zeiss, der Erfinder des Overheadprojektor... Warte, weißt du überhaupt, was ein OHP ist?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-850" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qhcWH7iitW0w5NcIH523-4" value="Text&lt;br&gt;&lt;br&gt;Schließe den Projektor an und schalte ihn ein" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2880" y="1940" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qhcWH7iitW0w5NcIH523-5" value="Text&lt;br&gt;&lt;br&gt;Klappe die Linse auf" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3020" y="1940" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qhcWH7iitW0w5NcIH523-6" value="Text&lt;br&gt;&lt;br&gt;Nehme die Folie vom Tisch und lege Sie auf die Glasfläche des Projektors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3160" y="1940" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qhcWH7iitW0w5NcIH523-7" value="Text&lt;br&gt;&lt;br&gt;Vergrößere das Bild an der Wand, indem du den Projektor von der Wand näher/weiter rückst" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3590" y="2020" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-2" value="Text&lt;br&gt;&lt;br&gt;Bitte wähle unter den folgenden Optionen:&amp;nbsp;&lt;br&gt;&quot;Tutorial neustarten&quot;&lt;br&gt;&quot;Erkärung zu Lichtstrahlen&quot;&lt;br&gt;&quot;Erkundungsmodus&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="1970" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-9" target="t7ZzerdOOlnrR5x57jmB-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-9" value="wenn: Blatt richtig herum&lt;br&gt;-&amp;gt;nichts machen&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="2230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-10" target="t7ZzerdOOlnrR5x57jmB-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-10" value="3D-Modell des OHP (&lt;i&gt;wird vom Nutzer bewegt&lt;/i&gt;&lt;br&gt;-&amp;gt; Bild an Wand wird größer/kleiner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3590" y="2180" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-17" value="Text&lt;br&gt;&lt;br&gt;Stelle das Bild scharf indem du das Rad drehst oder die Entfernung des Projektors änderst" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3750" y="2020" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-18" target="yjMdG2bAr7CxOs6sLDQ7-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-18" value="3D-Modell eines Rades am OHP (&lt;i&gt;wird vom Nutzer gedreht &lt;/i&gt;&lt;br&gt;-&amp;gt; Bild an Wand wird (un-)schärfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="3750" y="2180" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-22" target="t7ZzerdOOlnrR5x57jmB-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-22" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[2] Erklärung zu Lichtstrahlen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="2380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-24" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[1] Tutorial wird neugestartet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="3830" y="2380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-26" target="t7ZzerdOOlnrR5x57jmB-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4050" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-26" value="&lt;span style=&quot;font-style: normal;&quot;&gt;verlangsamte 3D Animation des Verlaufes (Spiegelung/Bündeln) der Lichtstrahlen (Verkleidung transparent, physikalische Variablen werden virtuell dargestellt)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4030" y="2500" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-34" target="t7ZzerdOOlnrR5x57jmB-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4220" y="2680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="4200" y="2680" />
+              <mxPoint x="4200" y="2620" />
+              <mxPoint x="4150" y="2620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.417;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-34" target="yjMdG2bAr7CxOs6sLDQ7-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4110" y="2720" />
+              <mxPoint x="4110" y="2810" />
+              <mxPoint x="3990" y="2810" />
+              <mxPoint x="3990" y="2200" />
+              <mxPoint x="3440" y="2200" />
+              <mxPoint x="3440" y="2165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-34" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Loop (&lt;/span&gt;Nutzer kann sich den Verlauf der Lichtstrahlen ansehen und verstehen)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4050" y="2640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t7ZzerdOOlnrR5x57jmB-36" target="t7ZzerdOOlnrR5x57jmB-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-36" value="&lt;span style=&quot;font-style: normal;&quot;&gt;OHP wird angezeigt (OFF)&lt;br&gt;-&amp;gt;&lt;/span&gt;Nutzer kann Komponenten ein- und ausblenden und sich alles aus der Nähe ansehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4280" y="2490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-38" value="Text&lt;br&gt;&lt;br&gt;Tippen Sie auf die Einzelteile des OHP, um sie auszublenden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4427" y="2480" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-39" target="yjMdG2bAr7CxOs6sLDQ7-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4250" y="2120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4590" y="2670" />
+              <mxPoint x="4590" y="2150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-39" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Zurück-Taste und Taste zum Einblenden&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="4280" y="2620" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-44" target="t7ZzerdOOlnrR5x57jmB-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-44" value="Carl Zeiss spricht weiter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-750" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-46" value="Ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="-720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-47" target="t7ZzerdOOlnrR5x57jmB-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-47" value="Carl Zeiss spricht weiter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-575" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-49" value="Nein" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="225" y="-530" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-50" value="Text&lt;br&gt;&lt;br&gt;Das freut mich. Folg mir, wir schauen uns mal an, wie der OHP aufgebaut ist.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-910" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-51" value="Text&lt;br&gt;&lt;br&gt;Ein OHP ist ein Gerät, womit man Bilder an die Wand projizieren kann. Komm am besten mit, ich zeige dir, wie das funktioniert." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-460" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-52" value="Notiz&lt;br&gt;&lt;br&gt;Anzeige erscheint vor Carls Oberkörper, auf dem der Text angezeigt wird.&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-1190" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-53" target="_IUT6zES62HXC6_OcnTq-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-53" target="t7ZzerdOOlnrR5x57jmB-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-53" value="Carl Zeiss taucht am OHP wieder auf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-670" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-56" value="Notiz&lt;br&gt;&lt;br&gt;Nutze den Joystick, um dich zu bewegen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-830" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t7ZzerdOOlnrR5x57jmB-57" target="_IUT6zES62HXC6_OcnTq-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7ZzerdOOlnrR5x57jmB-57" value="Nutzer steht am OHP, Carl hält Folie in der Hand, Carl verschwindet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-670" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-1" value="Gesprochene Texte von Carl sowohl als geschriebener Text als auch als Audio verfügbar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-180" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-2" target="t7ZzerdOOlnrR5x57jmB-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-2" value="Fußstapfen werden auf dem Boden aufleuchten -&amp;gt; zeigen Weg zum OHP&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-470" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-4" value="Wenn 30 Sekunden &lt;br&gt;vergangen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="-530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
+          <mxGeometry x="1045" y="-1230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Steck das Kabel in die Steckdose&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1190" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Betätige den ON-Knopf&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Klappe die Linse auf&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Packe die Folie auf den OHP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1230" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lass das Bild größer werden&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1070" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Stelle das Bild scharf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="-1030" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-23" value="Text&lt;br&gt;&lt;br&gt;Nimm diese Folie und spiegel sie an die Wand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-830" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-24" value="Notiz&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Richte den Controller und klicke mit &quot;X&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="25" y="-1019" width="130" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-25" value="Notiz&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Halte Y gedrückt, um ein Objekt zu greifen&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="745" y="-999" width="130" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-27" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillOpacity=80;gradientColor=none;imageAspect=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-1190" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="_IUT6zES62HXC6_OcnTq-28" target="_IUT6zES62HXC6_OcnTq-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="-835" />
+              <mxPoint x="1020" y="-835" />
+              <mxPoint x="1020" y="-1143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-28" target="_IUT6zES62HXC6_OcnTq-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-28" target="_IUT6zES62HXC6_OcnTq-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="-617.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-28" value="Nutzer muss verschiedene Aufgaben erfüllen, die nacheinander auftauchen (siehe oben)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="970" y="-670" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-31" value="benötigte Objekte leuchten auf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="970" y="-460" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-32" value="Wenn Spieler&lt;br&gt;nach 30 Sekunden&lt;br&gt;nicht weiterkommt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="920" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-36" target="_IUT6zES62HXC6_OcnTq-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-36" target="_IUT6zES62HXC6_OcnTq-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-36" value="Bild an Wand scharf &lt;br&gt;--&amp;gt; An Wand ist das Menü zu sehen&amp;nbsp;&lt;br&gt;[1] [2] [3]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="-670" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-37" target="_IUT6zES62HXC6_OcnTq-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-37" value="Text&lt;br&gt;&lt;br&gt;Nimm diese Folie und projeziere sie an die Wand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="-830" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-38" target="yjMdG2bAr7CxOs6sLDQ7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-0.9090909090909065" y="-540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="-280" />
+              <mxPoint x="90" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-38" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[1] Tutorial wird neugestartet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="-470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-41" target="EN1EgV6vaprFluDoTuvW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-41" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[2] Erklärung zu Lichtstrahlen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="-470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-44" target="_IUT6zES62HXC6_OcnTq-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-44" target="EN1EgV6vaprFluDoTuvW-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-44" value="&lt;span style=&quot;font-style: normal;&quot;&gt;verlangsamte 3D Animation des Verlaufes (Spiegelung/Brechung) der Lichtstrahlen (Verkleidung transparent, Seitenansicht ermöglicht Blick ins Innere)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="520" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-46" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Regler taucht im Raum auf &lt;br&gt;--&amp;gt; Spieler kann damit die Animation vor- und zurückspulen, um sich Lichtverlauf genauer anzusehen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1494" y="710" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="_IUT6zES62HXC6_OcnTq-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1749.9499999999998" y="690" as="targetPoint" />
+            <mxPoint x="1769.9499999999998" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1771" y="620" />
+              <mxPoint x="1771" y="641" />
+              <mxPoint x="1740" y="641" />
+              <mxPoint x="1740" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1919.9499999999998" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1880" y="700" />
+              <mxPoint x="1880" y="640" />
+              <mxPoint x="1850" y="640" />
+            </Array>
+            <mxPoint x="1849.9499999999998" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-50" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Loop (&lt;/span&gt;Nutzer kann sich den Verlauf der Lichtstrahlen ansehen und verstehen)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1749.9499999999998" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-54" value="Notiz&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Visuelles und auditiv Feedback bei gelungener Bearbeitung der Aufgabe" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="-1410" width="130" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-55" value="Text&lt;br&gt;&lt;br&gt;Bitte wähle unter den folgenden Optionen:&amp;nbsp;&lt;br&gt;&quot;Tutorial neustarten&quot;&lt;br&gt;&quot;Carl Zeiss sucht Assistenten&quot;&lt;br&gt;&quot;Erkundungsmodus&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1579.95" y="-1020" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_IUT6zES62HXC6_OcnTq-60" target="_IUT6zES62HXC6_OcnTq-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-60" value="&lt;span style=&quot;font-style: normal;&quot;&gt;[3] Erkundungsmodus wird gestartet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_IUT6zES62HXC6_OcnTq-62" target="_IUT6zES62HXC6_OcnTq-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-62" value="&lt;span style=&quot;font-style: normal;&quot;&gt;OHP wird angezeigt (OFF)&lt;br&gt;-&amp;gt;&lt;/span&gt;Nutzer kann Komponenten ein- und ausblenden und sich alles aus der Nähe ansehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="230" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-63" value="Text&lt;br&gt;&lt;br&gt;Tippen Sie auf die Einzelteile des OHP, um sie auszublenden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="220" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_IUT6zES62HXC6_OcnTq-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IUT6zES62HXC6_OcnTq-65" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Zurück-Taste und Taste zum Einblenden&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="360" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-1" target="_IUT6zES62HXC6_OcnTq-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-1" target="EN1EgV6vaprFluDoTuvW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-1" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Man kann Linsen austauschen, die auf dem Tisch nebenan liegen --&amp;gt; unterschiedliche Linsen = Unterschiede in Lichtbrechung&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1739.93" y="760" width="140.05" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-5" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Fresnel-Linse, konvexe und konkave Linse, Mischversionen von Sammel- und Zerstreuungslinsen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1739.98" y="930" width="140.05" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-7" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Carl Zeiss taucht auf&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1579.95" y="-330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-8" value="Text&lt;br&gt;&lt;br&gt;So, du hast mitbekommen, dass ich einen Assistenten brauche... Das passt prime, denn der OPH funktioniert leider nicht mehr. Hilf mir, ihn wieder auf Trapp zu bringen.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1579.95" y="-240" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-11" target="EN1EgV6vaprFluDoTuvW-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-11" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Oben rechts taucht Notiz auf, Gehäuse vom OHP leuchtet auf&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1760.03" y="-330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-12" value="Text&lt;br&gt;&lt;br&gt;Schauen wir uns erstmal an, wie der OHP aufgebaut ist und wie genau das Licht vom OHP seinen Weg zur Wand findet. Um in den OHP zu schauen, müsstest du aber noch die Verkleidung entfernen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1759.98" y="-525" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-13" value="Notiz&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Nutze den Controller und richte ihn auf Objekte, um diese auszublenden" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="1755.03" y="-679" width="130" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-14" target="EN1EgV6vaprFluDoTuvW-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-14" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Nutzer hat Seitenansicht auf OHP, sieht das Gerät von innen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="-330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-15" value="Text&lt;br&gt;&lt;br&gt;Sehr schön. Ich erkläre dir zunächst, wie der OHP funktioniert" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="-240" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-21" target="EN1EgV6vaprFluDoTuvW-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-21" target="EN1EgV6vaprFluDoTuvW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-21" target="EN1EgV6vaprFluDoTuvW-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-21" value="&lt;span style=&quot;font-style: normal;&quot;&gt;3D Animation des Verlaufes (Spiegelung/Brechung) der Lichtstrahlen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2455.95" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-22" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Regler taucht im Raum auf &lt;br&gt;--&amp;gt; Spieler kann damit die Animation vor- und zurückspulen, um sich Lichtverlauf genauer anzusehen&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="-155" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-25" target="EN1EgV6vaprFluDoTuvW-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2610" y="-60" />
+              <mxPoint x="2610" y="-140" />
+              <mxPoint x="2576" y="-140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-25" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Loop (&lt;/span&gt;Nutzer kann sich den Verlauf der Lichtstrahlen ansehen und verstehen)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2475.95" y="-100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-30" target="EN1EgV6vaprFluDoTuvW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-30" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Verlauf des Lichtes wird gezeigt, wobei nach Erreichen jeden Objekts pausiert wird, Carl Zeiss erklärt bei jedem Schritt, was passiert&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="-330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-33" value="Text&lt;br&gt;&lt;br&gt;Das Licht erreicht nun die FRESNER Linse und wird gesammelt..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="-240" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-34" target="EN1EgV6vaprFluDoTuvW-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-34" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Ein &quot;Weiter&quot;-Knopf taucht auf, womit der Spieler fortsetzen kann&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2690" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EN1EgV6vaprFluDoTuvW-36" target="EN1EgV6vaprFluDoTuvW-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-36" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Carl Zeiss spricht mit dem Nutzer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-38" value="nach 15 &lt;br&gt;Sekunden" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2610" y="-220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-39" value="Text&lt;br&gt;&lt;br&gt;So, wo dies geschafft ist, widmen wir uns nun den Linsen. Scheinbar sind die kaputtgegangen, weshalb der OHP nicht mehr ging" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2940" y="-160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-40" target="EN1EgV6vaprFluDoTuvW-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-40" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Nutzer geht zum Lehrerpult, auf dem Blätter mit Abbildungen der Linsen liegen und daneben auch Linsen sind.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="3160" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-41" value="Text&lt;br&gt;&lt;br&gt;Nimm diese Linsen und setze sie in den OHP ein. Sieh dir an, wie das Licht verläuft und finde die richtige Linse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="-160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-44" target="EN1EgV6vaprFluDoTuvW-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-44" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Nutzer ist fertig, Carl führt fort&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="3380" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-46" value="Text&lt;br&gt;&lt;br&gt;Dankeschön, du bist mir eine große Hilfe. Wir müssen nur die Abhängigkeiten zwischen den Distanzen herausfinden, damit wir eine Formel aufstellen können" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3400" y="-160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN1EgV6vaprFluDoTuvW-47" target="EN1EgV6vaprFluDoTuvW-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-47" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Auf dem Boden taucht ein Maßstab auf, der die Distanz zwischen OHP und Wand anzeigt und eine Flächenangabe des Bildes an der Wand&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="3610" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-49" value="Text&lt;br&gt;&lt;br&gt;Verändere die Distanz vom OHP zur Wand um die Hälfte/das Doppelte und sieh dir an, wie sich die Fläche des Bildes in Relation zur Distanz ändert" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3630" y="-160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cATQnlkqRL_dR-7GX_lK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN1EgV6vaprFluDoTuvW-50" target="cATQnlkqRL_dR-7GX_lK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-50" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Wenn dies getan ist, taucht ein Maßstab zwischen Objektiv und Folie auf und der Maßstab auf dem Boden verschwindet.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="3840" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-51" value="Text&lt;br&gt;&lt;br&gt;Nun sollst du die Abhängigkeit herausfinden zwischen der Distanz des Objektivs zur Folie und der Fläche des Bildes an der Wand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3860" y="-160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2165.95" y="120" width="414.05" height="384.00000000000045" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-54" vertex="1">
+          <mxGeometry width="414.05" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-56" value="Entfernung" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-55" vertex="1">
+          <mxGeometry width="138" height="120" as="geometry">
+            <mxRectangle width="138" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-57" value="1 Meter" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-55" vertex="1">
+          <mxGeometry x="138" width="144" height="120" as="geometry">
+            <mxRectangle width="144" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-58" value="0,5 Meter" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-55" vertex="1">
+          <mxGeometry x="282" width="132" height="120" as="geometry">
+            <mxRectangle width="132" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-54" vertex="1">
+          <mxGeometry y="120" width="414.05" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-60" value="Maße" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-59" vertex="1">
+          <mxGeometry width="138" height="132" as="geometry">
+            <mxRectangle width="138" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-61" value="71cm x 70cm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-59" vertex="1">
+          <mxGeometry x="138" width="144" height="132" as="geometry">
+            <mxRectangle width="144" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-62" value="41,5cm x 40cm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-59" vertex="1">
+          <mxGeometry x="282" width="132" height="132" as="geometry">
+            <mxRectangle width="132" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-54" vertex="1">
+          <mxGeometry y="252" width="414.05" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-68" value="Fläche" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-67" vertex="1">
+          <mxGeometry width="138" height="132" as="geometry">
+            <mxRectangle width="138" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-69" value="4970cm^2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-67" vertex="1">
+          <mxGeometry x="138" width="144" height="132" as="geometry">
+            <mxRectangle width="144" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1EgV6vaprFluDoTuvW-70" value="1660cm^2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="EN1EgV6vaprFluDoTuvW-67" vertex="1">
+          <mxGeometry x="282" width="132" height="132" as="geometry">
+            <mxRectangle width="132" height="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cATQnlkqRL_dR-7GX_lK-4" value="Text&lt;br&gt;&lt;br&gt;So, um mein Assistent zu sein, muss ich nun überprüfen, inwiefern du aufgepasst und dir alles gemerkt hast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="-160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cATQnlkqRL_dR-7GX_lK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cATQnlkqRL_dR-7GX_lK-5" target="cATQnlkqRL_dR-7GX_lK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cATQnlkqRL_dR-7GX_lK-5" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Carl spricht zum Nutzer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cATQnlkqRL_dR-7GX_lK-7" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Quiz taucht auf, das der Nutzer lösen muss bezogen auf die Lichtbrechung durch Linsen und die Abhängigkeiten zwischen Bildgröße und Distanz&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="4300" y="-270" width="160" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
